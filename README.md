@@ -2,7 +2,7 @@
 Edoardo Carlani, Lucia Ciapessoni, Sara Deriu
 ## Project title
 ### Data Collection
-+ Where did you get your data from? [https://nuforc.org/databank/?]
++ Where did you get your data from? [https://nuforc.org/databank/]
 + What’s your data about? [describe]
 + Who is/are the sources/creators of your data?
 ### Data Organization
