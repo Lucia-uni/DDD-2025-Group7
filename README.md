@@ -50,8 +50,8 @@ We had to make a careful selection of the images, excluding any photos of drawin
 [\[Dataset\]](https://docs.google.com/spreadsheets/d/1mFJQY0Uly0rblv_2mHryVKnJKPaWtteHuqaW7feRPbI/edit?usp=sharing)
 
 ### What does the visualisation show?
--More sightings occur at night, or at least more UFOs are photographed at night.
+- More sightings occur at night, or at least more UFOs are photographed at night.
 
-– At night, the artificial intelligence has more difficulty analyzing the images. There were many cases in which the object (clearly visible to the naked eye) was not detected; the only way to get it analyzed was by cropping the image.
+- At night, the artificial intelligence has more difficulty analyzing the images. There were many cases in which the object (clearly visible to the naked eye) was not detected; the only way to get it analyzed was by cropping the image.
 
-– Most of the AI’s interpretations are “kites.” There were no cases in which the AI identified the photos of the alleged sightings as UFOs (even when the AI could have recognized them). We can say that AI does not believe in UFOs, or rather, it does not recognize as a UFO something that a human being might interpret as such.
+- Most of the AI’s interpretations are “kites.” There were no cases in which the AI identified the photos of the alleged sightings as UFOs (even when the AI could have recognized them). We can say that AI does not believe in UFOs, or rather, it does not recognize as a UFO something that a human being might interpret as such.
