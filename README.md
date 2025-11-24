@@ -19,6 +19,7 @@ Edoardo Carlani, Lucia Ciapessoni, Sara Deriu
 This research explores the question: Does AI believe in UFOs? Using photos from the National UFO Reporting Center (NUFORC) database—where individual users upload images of what they identify as unidentified flying objects, categorized by shape—we analyzed them with object-recognition software. However, since these images are often decontextualized from their original source, the results we obtained differed from the original intended meaning. So our question became: depending on the UFO’s shape, what does the AI actually see?
 
 ### Protocol Diagram
+```
 mermaid
 flowchart TB
     n1["Topic: AI object detector and ufo"] --> n2["Research site"]
@@ -34,7 +35,7 @@ flowchart TB
     n3@{ shape: diam}
     n5@{ shape: diam}
     n9@{ shape: diam}
-
+```
 
 ### What topic does the project address?
 The project explores the tool of AI, in this case object recognition. Images of varying quality, taken in different situations and contexts, were often used. This allows us to observe how the machine reacts to these shapes, which are often strange and unusual.
