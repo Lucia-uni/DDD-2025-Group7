@@ -1,6 +1,6 @@
 # DDD-2025-Group7
 Edoardo Carlani, Lucia Ciapessoni, Sara Deriu
-## Ufo shapes
+## Does the AI believe in UFO? - What does the AI see in ufo's sights photos?
 ### Data Collection
 + Where did you get your data from? [https://nuforc.org/databank/]
 + What’s your data about? [The data are alleged UFO sightings, which list the times of the sightings, the locations and other details.]
