@@ -13,7 +13,7 @@ Edoardo Carlani, Lucia Ciapessoni, Sara Deriu
 # Intraspace
 
 ### Visualisation
-![ScreenRecording](/DOC/screen.mp4)
+![ScreenRecording](/DOC/video.mp4)
 
 ### Abstract 
 This research explores the question: Does AI believe in UFOs? Using photos from the National UFO Reporting Center (NUFORC) database—where individual users upload images of what they identify as unidentified flying objects, categorized by shape—we analyzed them with object-recognition software. However, since these images are often decontextualized from their original source, the results we obtained differed from the original intended meaning. So our question became: depending on the UFO’s shape, what does the AI actually see?
@@ -43,7 +43,7 @@ The project explores the tool of AI, in this case object recognition. Images of 
 We used the existing database of the National UFO Reporting Center (NUFORC), a non-profit organization that specializes in UFO sightings. On their website, users can submit a report of a possible UFO sighting, providing various details such as the UFO’s shape, date, time, duration of the sighting, and more. The website also allows users not only to upload possible photos or videos of the event, but also to view the images submitted as evidence.
 We had to make a careful selection of the images, excluding any photos of drawings, three-dimensional replicas, and similar material. We used only the photos of the alleged UFOs.
 
-<img alt="Screenshot Dataset" src="/DOC/screen.png" />
+<img alt="Screenshot Dataset" src="/DOC/screen.jpeg" />
 
 #### Link to the dataset
 [\[Dataset\]](https://docs.google.com/spreadsheets/d/1mFJQY0Uly0rblv_2mHryVKnJKPaWtteHuqaW7feRPbI/edit?usp=sharing)
