@@ -3,12 +3,12 @@ Edoardo Carlani, Lucia Ciapessoni, Sara Deriu
 ## Ufo shapes
 ### Data Collection
 + Where did you get your data from? [https://nuforc.org/databank/]
-+ What’s your data about? [describe]
-+ Who is/are the sources/creators of your data?
++ What’s your data about? [The data are alleged UFO sightings, which list the times of the sightings, the locations and other details.]
++ Who is/are the sources/creators of your data? [These are users who have decided to post their testimonies on the site, often also including photos]
 ### Data Organization
-+ Have you combined data from different sources? How did you merge them?
-+ What columns are more relevant for your project?
-+ Have you used any AI-based tool to understand or manipulate your data? if yes, what and how?
++ Have you combined data from different sources? How did you merge them?  [No, but we rewrote from the huge database on the site]
++ What columns are more relevant for your project? [Shape, Light condition, image]
++ Have you used any AI-based tool to understand or manipulate your data? if yes, what and how? [yes we used an object-recognition software to get the result of the machine, then we used the photoshop image generation system to create the image]
 
 # Intraspace
 
